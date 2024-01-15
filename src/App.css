@@ -37,6 +37,14 @@ form input {
   border: none;
   background-color: #fff;
   outline: none;
+  
+}
+@media screen and (max-width: 450px) {
+  form button,
+  form input {
+    font-size: 150%;
+  }
+  
 }
 
 form button {
@@ -49,6 +57,11 @@ form button {
 form button:hover {
   background-color: #fff;
   color: #340436;
+}
+.search{
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .select {
