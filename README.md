@@ -2,7 +2,7 @@
 
 ## Description
 - This app utilizes the power of React to make task management simple and effective with a user-friendly interface. Whether you are organizing your daily tasks or sorting tasks for big projects, this app is designed to meet your needs.
-- This project is part of my journey to learn in-depth about modern web technologies and best practices. Visit the project, try it out and share your feedback! It will be very valuable for me to hear your comments and insights.
+- This project is part of my journey to learn in-depth about modern web technologies and best practices. Visit the project, try it out and share your feedback! It will be very valuable for me to hear your comments and insights...
 
 ## Features
 💡 Simple and user-friendly design
